@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
 <body>
-<!-- container for title bar -->
+
+<!-- section for title bar -->
+<section class="title-bar">
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
@@ -21,7 +23,10 @@
         </div>
     </div>
 </div>
-<!-- container for jumbotron -->
+</section>
+
+<!-- section for jumbotron -->
+<section class="jumbotron-style">
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-xs-12" >
@@ -34,6 +39,7 @@ information.</p>
         </div>
     </div>
 </div>
+</section>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
