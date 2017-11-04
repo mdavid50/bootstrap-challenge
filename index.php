@@ -10,7 +10,27 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
 <body>
+<div class="header">
+    <div class="container">
+        <div class="rounded"
+<header>
+    <h2>Title</h2>
+    <p>link link link link</p>
+</header>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 col-xs-12" >
+            <div class="jumbotron">
 <h1>Hello, world!</h1>
+<p>This is a simple hero unit, a simple jumbotron-stle component for calling extra attention to featured content or
+information.</p>
+<p>Learn more</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
