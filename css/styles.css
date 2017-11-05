@@ -1,11 +1,16 @@
-.title-bar h3{
+.title-jumbotron {
+}
+
+h3 {
+    display: inline;
+}
+nav {
     display: inline;
 }
 
-.title-bar p{
-    display: inline;
-    float: right;
-}
+
+
+
 .image-content{
 
 }

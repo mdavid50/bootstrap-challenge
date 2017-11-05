@@ -16,17 +16,38 @@
 <body>
 
 <!-- section for title bar -->
-<section class="title-bar">
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-            <div class="well">
-                <h3>Title</h3>
-                <p>link link link link</p>
+<section class="title-jumbotron">
+    <div class="container border rounded bg-light">
+        <div class="row d-inline">
+            <div class="col-sm-12" >
+                <div class="well">
+                    <h3 class="col-sm-6 d-inline">My motorcycles</h3>
+                    <nav class="col-sm-6 navbar navbar-expand-sm navbar-light d-inline">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="#!">Link1 <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="#!">Link2 <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="#!">Link3 <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="#!">Link4 <span class="sr-only">(current)</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
             </div>
         </div>
     </div>
-</div>
+
 </section>
 
 <!-- section for jumbotron -->
