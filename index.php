@@ -16,38 +16,38 @@
 <body>
 
 <!-- section for title bar -->
-<section class="title-jumbotron">
-    <div class="container border rounded bg-light">
-        <div class="row d-inline">
-            <div class="col-sm-12" >
-                <div class="well">
-                    <h3 class="col-sm-6 d-inline">My motorcycles</h3>
-                    <nav class="col-sm-6 navbar navbar-expand-sm navbar-light d-inline">
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#!">Link1 <span class="sr-only">(current)</span></a>
-                                </li>
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#!">Link2 <span class="sr-only">(current)</span></a>
-                                </li>
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#!">Link3 <span class="sr-only">(current)</span></a>
-                                </li>
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#!">Link4 <span class="sr-only">(current)</span></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
+<section class="title">
+    <div class="container bg-light rounded">
+        <div class="row">
+            <div class="col-lg-12">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="col-lg-8 navbar-brand " href="#!">My Motorcycles</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+
+                <div class="collapse navbar-collapse bg-warning" id="navbarTogglerDemo02">
+
+                                         <ul class="navbar-nav mt-2 mt-md-0" >
+                            <li class="nav-link">
+                                 <a class="nav-link" href="#!">Link1</a>
+                            </li>
+                             <li class="nav-link">
+                                <a class="nav-link" href="#!">Link2</a>
+                             </li>
+                             <li class="nav-link">
+                    <a class="nav-link" href="#!">Link3</a>
+                             </li>
+                             <li class="nav-link">
+                    <a class="nav-link" href="#!">Link4</a>
+                             </li>
+                         </ul>
+                    </div>
+                </nav>
             </div>
         </div>
     </div>
-
 </section>
 
 <!-- section for jumbotron -->
@@ -68,20 +68,21 @@ information.</p>
 
 <!-- section for image content -->
 
-    <div class="container-fluid">
+    <div class="container-fluid bg-light">
         <div class="row">
-         <div class="col-sm-4">
+         <div class="col-sm-3 m-2">
             <img src="images/ktm.jpg" class="img-fluid">
          </div>
          <div class="col-sm-8">
-             <p>This was my last girlfriend. she was a great girlfriend.</p>
+             <p>This was my last girlfriend. she was a great girlfriend. never complained even when I didn't treat her
+             well. She never let me down. And she was the sexiest yet!!</p>
          </div>
         </div>
     </div>
 
 <!-- class for later loves of my life section -->
 <section class="later-ladies">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <!-- section about the harley -->
             <div class="col-sm-3">
@@ -112,7 +113,15 @@ information.</p>
 </section>
 
 <!-- footer -->
-
+<footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <p class="text-center">Thanks for having a look at my ladies. I had fun!</p>
+            </div>
+        </div>
+    </div>
+</footer>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
