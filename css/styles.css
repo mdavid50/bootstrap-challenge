@@ -1,0 +1,16 @@
+.title-bar h3{
+    display: inline;
+}
+
+.title-bar p{
+    display: inline;
+    float: right;
+}
+.image-content{
+
+}
+
+.later-ladies img{
+    border-radius:50%
+}
+
