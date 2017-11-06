@@ -27,7 +27,7 @@
                 </button>
 
 
-                <div class="collapse navbar-collapse bg-warning" id="navbarTogglerDemo02">
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 
                                          <ul class="navbar-nav mt-2 mt-md-0" >
                             <li class="nav-link">
