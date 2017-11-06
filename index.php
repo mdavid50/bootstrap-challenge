@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Hello, world!</title>
+    <title>My Ladies!</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -31,16 +31,16 @@
 
                                          <ul class="navbar-nav mt-2 mt-md-0" >
                             <li class="nav-link">
-                                 <a class="nav-link" href="#!">Link1</a>
+                                 <a class="nav-link" href="https://www.motosport.com">Link1</a>
                             </li>
                              <li class="nav-link">
-                                <a class="nav-link" href="#!">Link2</a>
+                                <a class="nav-link" href="https://www.rockymountainatv.com">Link2</a>
                              </li>
                              <li class="nav-link">
-                    <a class="nav-link" href="#!">Link3</a>
+                    <a class="nav-link" href="https://slavensracing.com">Link3</a>
                              </li>
                              <li class="nav-link">
-                    <a class="nav-link" href="#!">Link4</a>
+                    <a class="nav-link" href="https://www.ktm.com/us/">Link4</a>
                              </li>
                          </ul>
                     </div>
@@ -56,9 +56,10 @@
     <div class="row">
         <div class="col-sm-12" >
             <div class="jumbotron">
-<h1>Hello, world!</h1>
-<p>This is a simple hero unit, a simple jumbotron-stle component for calling extra attention to featured content or
-information.</p>
+<h1>Hello, Friend!</h1>
+<p>Its Time to talk about my ladies! Although my wife is a jealous woman, she has shared me with more than one lady
+since we have been married wink wink! I am going to show you a small cut of the ladies she has recently shared me
+with.</p>
 <button type="button" class="btn btn-primary">Learn more</button>
             </div>
         </div>
@@ -87,25 +88,25 @@ information.</p>
             <!-- section about the harley -->
             <div class="col-sm-3">
                 <img src="images/the-harley.jpg" alt="my first harley" class="img-fluid">
-                <p>this is my first harley. she was great. a little too small but great. my wife didn't really love
+                <p class="rounded border-dark bg-light ">this is my first harley. she was great. a little too small but great. my wife didn't really love
                 going with me so I decided I didn't want it as much as a dirt bike</p>
             </div>
             <!-- section about my kawasaki -->
             <div class="col-sm-3">
                 <img src="images/kx250f.jpg" alt="kawasaki dirt bike" class="img-fluid">
-                <p>This little sweetheart really rocked my world for a while. She was fast and mean. She pushed me
+                <p class="rounded bg-light">This little sweetheart really rocked my world for a while. She was fast and mean. She pushed me
                 as much as I pushed her</p>
             </div>
             <!-- section about my forgotten honda -->
             <div class="col-sm-3">
                 <img src="images/honda-in-the-back.jpg" alt="hidden honda dirt bike" class="img-fluid">
-                <p>I must not have cared about this old gal too much cause this is the best picture i got and she is 
+                <p class="rounded bg-light">I must not have cared about this old gal too much cause this is the best picture i got and she is
                 hidden behind the kawasaki</p>
             </div>
             <!-- section about my not so good honda -->
             <div class="col-sm-3">
                 <img src="images/first-honda.jpg" alt="old honda dirt bike" class="img-fluid">
-                <p>This tiny princess didn't fair so well. i thought i was buying a dirt bike that was up to the
+                <p class="rounded bg-light">This tiny princess didn't fair so well. i thought i was buying a dirt bike that was up to the
                 task but it turns out that her suspension was not meant for what i wanted her for.</p>
             </div>
         </div>
