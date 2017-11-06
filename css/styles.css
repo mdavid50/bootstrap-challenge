@@ -1,7 +1,16 @@
+body {
+    background-color: orange;
+}
+
 .title {
     margin-top: 2em;
+    background-color: black;
 }
 .jumbotron-style {
+    background-color: orange;
+}
+
+.jumbotron {
     margin-top: 2em;
 }
 h3 {
@@ -11,7 +20,11 @@ nav {
     display: inline;
 }
 .later-ladies {
-    margin-top: 2em;
+    background-color: orange;
+}
+
+.later-ladies img{
+    margin-top:2em;
 }
 
 footer {

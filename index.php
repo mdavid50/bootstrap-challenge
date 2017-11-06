@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-lg-12">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="col-lg-8 navbar-brand " href="#!">My Motorcycles</a>
+                <a class="col-lg-8 navbar-brand " href="https://bootcamp-coders.cnm.edu/~mdavid5/bootstrap-challenge/index.php#!">My Motorcycles</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -69,13 +69,13 @@ with.</p>
 
 <!-- section for image content -->
 
-    <div class="container-fluid bg-light">
+    <div class="container-fluid text-light bg-dark">
         <div class="row">
          <div class="col-sm-3 m-2">
             <img src="images/ktm.jpg" class="img-fluid">
          </div>
          <div class="col-sm-8">
-             <p>This was my last girlfriend. she was a great girlfriend. never complained even when I didn't treat her
+             <p >This was my last girlfriend. she was a great girlfriend. never complained even when I didn't treat her
              well. She never let me down. And she was the sexiest yet!!</p>
          </div>
         </div>
