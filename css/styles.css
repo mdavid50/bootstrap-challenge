@@ -5,6 +5,7 @@ body {
 .title {
     margin-top: 2em;
     background-color: black;
+    border: solid;
 }
 .jumbotron-style {
     background-color: orange;
