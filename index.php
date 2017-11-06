@@ -114,10 +114,10 @@ information.</p>
 
 <!-- footer -->
 <footer>
-    <div class="container-fluid">
+    <div class="container-fluid bg black">
         <div class="row">
             <div class="col-12">
-                <p class="text-center">Thanks for having a look at my ladies. I had fun!</p>
+                <p class="text-center text-white">Thanks for having a look at my ladies. I had fun!</p>
             </div>
         </div>
     </div>
