@@ -34,7 +34,7 @@
                                  <a class="nav-link" href="https://www.motosport.com">Link1</a>
                             </li>
                              <li class="nav-link">
-                                <a class="nav-link" href="https://www.rockymountainatv.com">Link2</a>
+                                <a class="nav-link" href="http://www.rockymountainatv.com">Link2</a>
                              </li>
                              <li class="nav-link">
                     <a class="nav-link" href="https://slavensracing.com">Link3</a>
